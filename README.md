@@ -2,6 +2,8 @@
 
 # Author: Bocaletto Luca
 
+![Screenshot 2023-10-07 192014](https://github.com/elektronoide/calc-free/assets/134635227/a552cf53-2523-4ad2-b6af-9c75735f57bb)
+
 Calc Free is a simple yet powerful graphical calculator application written in Python using the PyQt6 library for the user interface. This application allows users to perform basic mathematical operations, calculate percentages, and compute square and cubic roots in an intuitive and user-friendly manner.
 
 ## Features
