@@ -1,4 +1,4 @@
-# Software Name: Calc Free
+# Software Name: Calc
 # Author: Bocaletto Luca
 import sys
 from PyQt6.QtCore import Qt
