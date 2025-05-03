@@ -1,11 +1,12 @@
-# Calc Free
+# Calc
 
-# Author: Bocaletto Luca
+**Author:** Bocaletto Luca
+
+**Language:** Python
+
+Calc is a simple yet powerful graphical calculator application written in Python using the PyQt6 library for the user interface. This application allows users to perform basic mathematical operations, calculate percentages, and compute square and cubic roots in an intuitive and user-friendly manner.
 
 ![Screenshot 2023-10-08 201410](https://github.com/elektronoide/calc-free/assets/134635227/3085b0f5-29a7-4cc0-9466-0ee6f9483f9a)
-
-
-Calc Free is a simple yet powerful graphical calculator application written in Python using the PyQt6 library for the user interface. This application allows users to perform basic mathematical operations, calculate percentages, and compute square and cubic roots in an intuitive and user-friendly manner.
 
 ## Features
 
@@ -37,42 +38,3 @@ Calc Free is a simple yet powerful graphical calculator application written in P
 
 - Python 3
 - PyQt6
-
-# Italiano
-
-# Descrizione Calcolatrice Free
-
-Calc Free è un'applicazione di calcolatrice semplice ma potente scritta in Python utilizzando la libreria PyQt6 per l'interfaccia utente. Questa applicazione consente agli utenti di eseguire operazioni matematiche di base, calcolare percentuali e calcolare radici quadrate e cubiche in modo intuitivo e facile da usare.
-
-## Funzionalità
-
-- **Interfaccia Utente User-Friendly**: Calc Free offre un'interfaccia grafica intuitiva e facile da usare che consente agli utenti di inserire numeri e eseguire calcoli in modo agevole.
-
-- **Operazioni Matematiche di Base**: Gli utenti possono eseguire operazioni di addizione (+), sottrazione (-), moltiplicazione (*) e divisione (/) con facilità.
-
-- **Radici Quadrate e Cubiche**: Calc Free consente di calcolare sia la radice quadrata (sqrt) che la radice cubica (cbrt) di un numero.
-
-- **Calcolo delle Percentuali**: Con l'operatore '%' gli utenti possono calcolare facilmente le percentuali.
-
-- **Cancellazione dell'Input**: Il pulsante 'CANC' consente agli utenti di cancellare l'input corrente e iniziare un nuovo calcolo.
-
-## Come Usare
-
-1. **Inserimento Numerico**: Usa i pulsanti numerici (0-9) e il punto decimale per inserire numeri. Il tuo input verrà visualizzato nella casella di testo superiore.
-
-2. **Operazioni Matematiche**: Usa i pulsanti delle operazioni (+, -, *, /) per eseguire calcoli matematici di base. Il risultato verrà visualizzato nella casella di testo.
-
-3. **Radici Quadrate e Cubiche**: Premi il pulsante 'sqrt' per calcolare la radice quadrata o il pulsante 'cbrt' per calcolare la radice cubica dell'input corrente.
-
-4. **Calcolo delle Percentuali**: Usa il pulsante '%' per calcolare la percentuale basata sull'input corrente.
-
-5. **Cancellazione dell'Input**: Clicca sul pulsante 'CANC' per cancellare l'input corrente e iniziare un nuovo calcolo.
-
-6. **Calcolo Finale**: Premi il pulsante '=' per calcolare il risultato finale basato sull'input e sull'operatore corrente.
-
-## Requisiti
-
-- Python 3
-- PyQt6
-
-# Licenza: GPLv3
