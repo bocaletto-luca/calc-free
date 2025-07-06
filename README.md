@@ -1,8 +1,8 @@
-# Calc
+# Calculator
 
 **Author:** Bocaletto Luca
 
-**Language:** Python
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Language: Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
 
 Calc is a simple yet powerful graphical calculator application written in Python using the PyQt6 library for the user interface. This application allows users to perform basic mathematical operations, calculate percentages, and compute square and cubic roots in an intuitive and user-friendly manner.
 
